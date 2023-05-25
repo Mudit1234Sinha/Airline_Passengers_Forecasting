@@ -1,2 +1,3 @@
 # Airline_Passengers_Forecasting
-Airline Passenger Forecasting using Time Series
+
+This is the Airline Passenger Forecasting using Time Series.I have used Single Expotential Smoothing for analysis
